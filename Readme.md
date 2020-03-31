@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Илья Жилин](https://up.htmlacademy.ru/ecmascript/11/user/535607).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Фидельман](https://up.htmlacademy.ru/ecmascript/11/user/773165).
 
 ---
 
